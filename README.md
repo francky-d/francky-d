@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **php or golang open source project**
 
-- 📝 I regularly write articles on [medium]([medium](https://medium.com/@francky-d))
+- 📝 I regularly write articles on [medium](https://medium.com/@francky-d)
 
 - 💬 Ask me about **laravel, react, golang**
 
