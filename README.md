@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franck-djacoto" alt="franck-djacoto" /></a> </p>
 
-- 🌱 I’m currently learning **in depth Laravel, discovering livewire,pest, react-native and rediscovering Golang**
+- 🌱 I’m currently learning **in depth Laravel, discovering livewire,pest, and rediscovering Golang**
 
 - 👯 I’m looking to collaborate on **php or golang open source project**
 
